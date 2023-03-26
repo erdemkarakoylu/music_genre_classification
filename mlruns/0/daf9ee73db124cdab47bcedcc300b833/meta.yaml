@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/PoFA/PROJEX/UDACITY/MLDevOpsEngineer/Final_Pipeline_Release_And_Deploy/music_genre_classification/mlruns/0/daf9ee73db124cdab47bcedcc300b833/artifacts
+end_time: 1679865574026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daf9ee73db124cdab47bcedcc300b833
+run_name: likeable-ray-702
+run_uuid: daf9ee73db124cdab47bcedcc300b833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679865236955
+status: 4
+tags: []
+user_id: PoFA
